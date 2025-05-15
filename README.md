@@ -26,8 +26,8 @@ This project demonstrates emotion detection on text using two approaches:
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/sundramxkumar/EmoDec.git
-   cd EmoDec
+   git clone https://github.com/sundramxkumar/Emotion-Detection-from-Text.git
+   cd Emotion-Detection-from-Text
 2. **Create and activate a Python virtual environment (optional but recommended)**
     python -m venv .venv
      .venv\Scripts\activate    # Windows
